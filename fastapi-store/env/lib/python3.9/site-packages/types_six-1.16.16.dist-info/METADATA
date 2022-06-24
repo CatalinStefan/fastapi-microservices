@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: types-six
+Version: 1.16.16
+Summary: Typing stubs for six
+Home-page: https://github.com/python/typeshed
+License: Apache-2.0 license
+Project-URL: GitHub, https://github.com/python/typeshed
+Project-URL: Changes, https://github.com/typeshed-internal/stub_uploader/blob/main/data/changelogs/six.md
+Project-URL: Issue tracker, https://github.com/python/typeshed/issues
+Project-URL: Chat, https://gitter.im/python/typing
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Typing :: Stubs Only
+Description-Content-Type: text/markdown
+
+## Typing stubs for six
+
+This is a PEP 561 type stub package for the `six` package.
+It can be used by type-checking tools like mypy, PyCharm, pytype etc. to check code
+that uses `six`. The source for this package can be found at
+https://github.com/python/typeshed/tree/master/stubs/six. All fixes for
+types and metadata should be contributed there.
+
+See https://github.com/python/typeshed/blob/master/README.md for more details.
+This package was generated from typeshed commit `1be5918baa9abb9927c27c31c03899a72f445347`.
+
+
